@@ -1,6 +1,7 @@
 1) Build as a Spring Starter Project  
    spring boot version 2.5.4  
-
+   java version 11
+   
 dependencies:
 - h2 Database
 - spring data jpa
