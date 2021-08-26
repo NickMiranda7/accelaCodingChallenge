@@ -1,5 +1,5 @@
 spring boot version 2.5.4
-dependencies
+dependencies:
 - h2 Database
 - spring data jpa
 - spring web
