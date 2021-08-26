@@ -11,3 +11,4 @@ Build as a Spring Starter Project
 (this should all already be in the pom.xml)
 
 run as a spring boot app
+front-end home page is on "localhost:8080" - should be intuitive from there
